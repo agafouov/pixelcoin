@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.edf5989a.css",
-    "main.js": "/pixelcoin/static/js/main.b89f96e9.js",
+    "main.css": "/pixelcoin/static/css/main.a59e0a2e.css",
+    "main.js": "/pixelcoin/static/js/main.4753f47f.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/demo-ava-14.png": "/pixelcoin/static/media/demo-ava-14.9172c9bd386977d00986.png",
@@ -32,11 +32,11 @@
     "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "index.html": "/pixelcoin/index.html",
-    "main.edf5989a.css.map": "/pixelcoin/static/css/main.edf5989a.css.map",
-    "main.b89f96e9.js.map": "/pixelcoin/static/js/main.b89f96e9.js.map"
+    "main.a59e0a2e.css.map": "/pixelcoin/static/css/main.a59e0a2e.css.map",
+    "main.4753f47f.js.map": "/pixelcoin/static/js/main.4753f47f.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf5989a.css",
-    "static/js/main.b89f96e9.js"
+    "static/css/main.a59e0a2e.css",
+    "static/js/main.4753f47f.js"
   ]
 }
