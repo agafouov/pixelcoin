@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.49db2bf8.css",
-    "main.js": "/pixelcoin/static/js/main.f48babd9.js",
+    "main.css": "/pixelcoin/static/css/main.9ca0ded9.css",
+    "main.js": "/pixelcoin/static/js/main.0cc43d17.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/demo-ava-14.png": "/pixelcoin/static/media/demo-ava-14.9172c9bd386977d00986.png",
-    "static/media/diamond_with_blur.png": "/pixelcoin/static/media/diamond_with_blur.9c873edd1d617c7feea3.png",
     "static/media/gta_bg.png": "/pixelcoin/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixelcoin/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/demo-ava-8.png": "/pixelcoin/static/media/demo-ava-8.81d46c50f1797735ce53.png",
@@ -15,6 +14,7 @@
     "static/media/main-bg-gold.png": "/pixelcoin/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/pixelcoin/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/bg-silver.png": "/pixelcoin/static/media/bg-silver.6f820fe308238e207adc.png",
+    "static/media/coin-bg-eggs.png": "/pixelcoin/static/media/coin-bg-eggs.4a8de8a692ce51dd4610.png",
     "static/media/bg-bronze.png": "/pixelcoin/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixelcoin/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixelcoin/static/media/bg-diamond.610200c56a784eca5618.png",
@@ -39,11 +39,11 @@
     "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "index.html": "/pixelcoin/index.html",
-    "main.49db2bf8.css.map": "/pixelcoin/static/css/main.49db2bf8.css.map",
-    "main.f48babd9.js.map": "/pixelcoin/static/js/main.f48babd9.js.map"
+    "main.9ca0ded9.css.map": "/pixelcoin/static/css/main.9ca0ded9.css.map",
+    "main.0cc43d17.js.map": "/pixelcoin/static/js/main.0cc43d17.js.map"
   },
   "entrypoints": [
-    "static/css/main.49db2bf8.css",
-    "static/js/main.f48babd9.js"
+    "static/css/main.9ca0ded9.css",
+    "static/js/main.0cc43d17.js"
   ]
 }
