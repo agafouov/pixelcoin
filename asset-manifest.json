@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.54c982d0.css",
-    "main.js": "/pixelcoin/static/js/main.b8732501.js",
+    "main.css": "/pixelcoin/static/css/main.f4c18cf9.css",
+    "main.js": "/pixelcoin/static/js/main.b129eb86.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
+    "static/media/skin-dragon.png": "/pixelcoin/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/demo-ava-14.png": "/pixelcoin/static/media/demo-ava-14.9172c9bd386977d00986.png",
+    "static/media/dragon_bg_gradient.png": "/pixelcoin/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/demo-ava-8.png": "/pixelcoin/static/media/demo-ava-8.81d46c50f1797735ce53.png",
     "static/media/main-bg-bronze.png": "/pixelcoin/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/main-bg-diamond.png": "/pixelcoin/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
@@ -32,11 +34,11 @@
     "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "index.html": "/pixelcoin/index.html",
-    "main.54c982d0.css.map": "/pixelcoin/static/css/main.54c982d0.css.map",
-    "main.b8732501.js.map": "/pixelcoin/static/js/main.b8732501.js.map"
+    "main.f4c18cf9.css.map": "/pixelcoin/static/css/main.f4c18cf9.css.map",
+    "main.b129eb86.js.map": "/pixelcoin/static/js/main.b129eb86.js.map"
   },
   "entrypoints": [
-    "static/css/main.54c982d0.css",
-    "static/js/main.b8732501.js"
+    "static/css/main.f4c18cf9.css",
+    "static/js/main.b129eb86.js"
   ]
 }
