@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixelcoin/static/css/main.8f3a9c6d.css",
-    "main.js": "/pixelcoin/static/js/main.7f981dbd.js",
+    "main.js": "/pixelcoin/static/js/main.ef08c7fa.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-mal.png": "/pixelcoin/static/media/moneta-mal.fdb0d76d1398a3cd07d3.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
@@ -32,18 +32,21 @@
     "static/media/coin-min.svg": "/pixelcoin/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/main-bg-galleon.jpg": "/pixelcoin/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/soon_bg.jpeg": "/pixelcoin/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
+    "static/media/diamond.mp3": "/pixelcoin/static/media/diamond.ae4b65748b3c572d6f10.mp3",
     "static/media/creater.jpg": "/pixelcoin/static/media/creater.f62bc97cbbaafc40a77b.jpg",
     "static/media/demo-ava-12.jpg": "/pixelcoin/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/moneta-small.png": "/pixelcoin/static/media/moneta-small.fee57dd945f4ebddb142.png",
     "static/media/demo-ava-13.jpg": "/pixelcoin/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
     "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
+    "static/media/ghost.mp3": "/pixelcoin/static/media/ghost.b1909546c7c731b4d9ff.mp3",
+    "static/media/fire.mp3": "/pixelcoin/static/media/fire.b6d903fa985480a8d976.mp3",
     "index.html": "/pixelcoin/index.html",
     "main.8f3a9c6d.css.map": "/pixelcoin/static/css/main.8f3a9c6d.css.map",
-    "main.7f981dbd.js.map": "/pixelcoin/static/js/main.7f981dbd.js.map"
+    "main.ef08c7fa.js.map": "/pixelcoin/static/js/main.ef08c7fa.js.map"
   },
   "entrypoints": [
     "static/css/main.8f3a9c6d.css",
-    "static/js/main.7f981dbd.js"
+    "static/js/main.ef08c7fa.js"
   ]
 }
