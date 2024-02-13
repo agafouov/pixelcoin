@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.e39b6406.css",
-    "main.js": "/pixelcoin/static/js/main.b6ef8e2f.js",
+    "main.css": "/pixelcoin/static/css/main.ead7d53e.css",
+    "main.js": "/pixelcoin/static/js/main.f48babd9.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/demo-ava-14.png": "/pixelcoin/static/media/demo-ava-14.9172c9bd386977d00986.png",
     "static/media/gta_bg.png": "/pixelcoin/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixelcoin/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/demo-ava-8.png": "/pixelcoin/static/media/demo-ava-8.81d46c50f1797735ce53.png",
+    "static/media/skin-cookie.png": "/pixelcoin/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/main-bg-bronze.png": "/pixelcoin/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/main-bg-diamond.png": "/pixelcoin/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/main-bg-silver.png": "/pixelcoin/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/pixelcoin/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/pixelcoin/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
-    "static/media/skin-galleon.png": "/pixelcoin/static/media/skin-galleon.3514d1e7cf8f3c31849c.png",
     "static/media/bg-silver.png": "/pixelcoin/static/media/bg-silver.6f820fe308238e207adc.png",
     "static/media/bg-bronze.png": "/pixelcoin/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixelcoin/static/media/bg-influencer.18d0b98509b0040c7b99.png",
@@ -39,11 +39,11 @@
     "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "index.html": "/pixelcoin/index.html",
-    "main.e39b6406.css.map": "/pixelcoin/static/css/main.e39b6406.css.map",
-    "main.b6ef8e2f.js.map": "/pixelcoin/static/js/main.b6ef8e2f.js.map"
+    "main.ead7d53e.css.map": "/pixelcoin/static/css/main.ead7d53e.css.map",
+    "main.f48babd9.js.map": "/pixelcoin/static/js/main.f48babd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e39b6406.css",
-    "static/js/main.b6ef8e2f.js"
+    "static/css/main.ead7d53e.css",
+    "static/js/main.f48babd9.js"
   ]
 }
