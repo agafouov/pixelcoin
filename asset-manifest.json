@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.45e1e14a.css",
-    "main.js": "/pixelcoin/static/js/main.5cdb5ab8.js",
+    "main.css": "/pixelcoin/static/css/main.e75fc53d.css",
+    "main.js": "/pixelcoin/static/js/main.8c36fd85.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-mal.png": "/pixelcoin/static/media/moneta-mal.fdb0d76d1398a3cd07d3.png",
     "static/media/skin-dragon.png": "/pixelcoin/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
-    "static/media/demo-ava-14.png": "/pixelcoin/static/media/demo-ava-14.9172c9bd386977d00986.png",
     "static/media/gta_bg.png": "/pixelcoin/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixelcoin/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
-    "static/media/demo-ava-8.png": "/pixelcoin/static/media/demo-ava-8.81d46c50f1797735ce53.png",
+    "static/media/demo-ava-1.jpg": "/pixelcoin/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/peepo-rocket.gif": "/pixelcoin/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
+    "static/media/demo-ava-14.jpg": "/pixelcoin/static/media/demo-ava-14.7e137be957746a3f1751.jpg",
     "static/media/main-bg-bronze.png": "/pixelcoin/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/main-bg-diamond.png": "/pixelcoin/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/main-bg-silver.png": "/pixelcoin/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/pixelcoin/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/pixelcoin/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
+    "static/media/demo-ava-5.jpeg": "/pixelcoin/static/media/demo-ava-5.ec069aba38d51e31ed17.jpeg",
     "static/media/bg-silver.png": "/pixelcoin/static/media/bg-silver.6f820fe308238e207adc.png",
     "static/media/bg-bronze.png": "/pixelcoin/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixelcoin/static/media/bg-influencer.18d0b98509b0040c7b99.png",
@@ -34,21 +35,21 @@
     "static/media/coin-min.svg": "/pixelcoin/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/main-bg-galleon.jpg": "/pixelcoin/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/soon_bg.jpeg": "/pixelcoin/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
+    "static/media/demo-ava-8.jpg": "/pixelcoin/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/diamond.mp3": "/pixelcoin/static/media/diamond.ae4b65748b3c572d6f10.mp3",
-    "static/media/creater.jpg": "/pixelcoin/static/media/creater.f62bc97cbbaafc40a77b.jpg",
+    "static/media/creator.jpg": "/pixelcoin/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/demo-ava-12.jpg": "/pixelcoin/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/moneta-small.png": "/pixelcoin/static/media/moneta-small.fee57dd945f4ebddb142.png",
     "static/media/demo-ava-13.jpg": "/pixelcoin/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
-    "static/media/demo-ava-3.png": "/pixelcoin/static/media/demo-ava-3.f9e3ce12e7b32d424582.png",
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/ghost.mp3": "/pixelcoin/static/media/ghost.b1909546c7c731b4d9ff.mp3",
     "static/media/fire.mp3": "/pixelcoin/static/media/fire.b6d903fa985480a8d976.mp3",
     "index.html": "/pixelcoin/index.html",
-    "main.45e1e14a.css.map": "/pixelcoin/static/css/main.45e1e14a.css.map",
-    "main.5cdb5ab8.js.map": "/pixelcoin/static/js/main.5cdb5ab8.js.map"
+    "main.e75fc53d.css.map": "/pixelcoin/static/css/main.e75fc53d.css.map",
+    "main.8c36fd85.js.map": "/pixelcoin/static/js/main.8c36fd85.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e1e14a.css",
-    "static/js/main.5cdb5ab8.js"
+    "static/css/main.e75fc53d.css",
+    "static/js/main.8c36fd85.js"
   ]
 }
