@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.e75fc53d.css",
+    "main.css": "/pixelcoin/static/css/main.71761f75.css",
     "main.js": "/pixelcoin/static/js/main.8c36fd85.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-mal.png": "/pixelcoin/static/media/moneta-mal.fdb0d76d1398a3cd07d3.png",
@@ -8,6 +8,7 @@
     "static/media/pixelcoin_qr.png": "/pixelcoin/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixelcoin/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixelcoin/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
+    "static/media/demo-ava-3.jpg": "/pixelcoin/static/media/demo-ava-3.26b0bd4dc63a5e834af3.jpg",
     "static/media/demo-ava-1.jpg": "/pixelcoin/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/peepo-rocket.gif": "/pixelcoin/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/demo-ava-14.jpg": "/pixelcoin/static/media/demo-ava-14.7e137be957746a3f1751.jpg",
@@ -45,11 +46,11 @@
     "static/media/ghost.mp3": "/pixelcoin/static/media/ghost.b1909546c7c731b4d9ff.mp3",
     "static/media/fire.mp3": "/pixelcoin/static/media/fire.b6d903fa985480a8d976.mp3",
     "index.html": "/pixelcoin/index.html",
-    "main.e75fc53d.css.map": "/pixelcoin/static/css/main.e75fc53d.css.map",
+    "main.71761f75.css.map": "/pixelcoin/static/css/main.71761f75.css.map",
     "main.8c36fd85.js.map": "/pixelcoin/static/js/main.8c36fd85.js.map"
   },
   "entrypoints": [
-    "static/css/main.e75fc53d.css",
+    "static/css/main.71761f75.css",
     "static/js/main.8c36fd85.js"
   ]
 }
