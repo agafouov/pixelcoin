@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixelcoin/static/css/main.da690afd.css",
-    "main.js": "/pixelcoin/static/js/main.fe005dc6.js",
+    "main.css": "/pixelcoin/static/css/main.6de22f96.css",
+    "main.js": "/pixelcoin/static/js/main.a80004af.js",
     "static/media/coin-small.png": "/pixelcoin/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-small.png": "/pixelcoin/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
     "static/media/skin-dragon.png": "/pixelcoin/static/media/skin-dragon.0cbab4bfc1074767da32.png",
@@ -15,6 +15,7 @@
     "static/media/main-bg-silver.png": "/pixelcoin/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/pixelcoin/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/pixelcoin/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
+    "static/media/disco.png": "/pixelcoin/static/media/disco.4ca6ab7ef286c438cfd0.png",
     "static/media/bg-silver.png": "/pixelcoin/static/media/bg-silver.6f820fe308238e207adc.png",
     "static/media/bg-bronze.png": "/pixelcoin/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixelcoin/static/media/bg-influencer.18d0b98509b0040c7b99.png",
@@ -40,11 +41,11 @@
     "static/media/lightning.png": "/pixelcoin/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixelcoin/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixelcoin/index.html",
-    "main.da690afd.css.map": "/pixelcoin/static/css/main.da690afd.css.map",
-    "main.fe005dc6.js.map": "/pixelcoin/static/js/main.fe005dc6.js.map"
+    "main.6de22f96.css.map": "/pixelcoin/static/css/main.6de22f96.css.map",
+    "main.a80004af.js.map": "/pixelcoin/static/js/main.a80004af.js.map"
   },
   "entrypoints": [
-    "static/css/main.da690afd.css",
-    "static/js/main.fe005dc6.js"
+    "static/css/main.6de22f96.css",
+    "static/js/main.a80004af.js"
   ]
 }
